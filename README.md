@@ -1,4 +1,4 @@
-Chocolate Sales Data Analysis
+**Chocolate Sales Data Analysis**
 
 This project analyzes a Kaggle dataset on chocolate sales to uncover trends, sales performance, and customer preferences. Using Python (Pandas, Matplotlib, and Seaborn), I cleaned and processed the data, handled missing values, and formatted inconsistencies to ensure accuracy.
 
